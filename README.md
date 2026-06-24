@@ -23,6 +23,12 @@ This project builds an **end-to-end machine learning system** that predicts whet
 
 ---
 
+##  Live Demo
+
+
+![Streamlit App ](<reports/figures/loan-eligibility-demo.gif>)
+
+
 ##  Objective
 
 To develop a **data-driven loan eligibility prediction system** that:
